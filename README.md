@@ -52,8 +52,6 @@
 <br>
 
 <div align=center>
-
-![NohGaSeong's github stats](https://github-readme-stats.vercel.app/api?username=NohGaSeong_icons=true)
-
+![NohGaSeong's github stats](https://github-readme-stats.vercel.app/api?username=NohGaSeong&show_icons=true)
 
 
