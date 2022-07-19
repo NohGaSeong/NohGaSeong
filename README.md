@@ -16,7 +16,7 @@
 
 <p align="center">
 안녕하세요👐<br>
-제 이름은 노가성이고 데브옵스와 백엔드를 공부하고 있어요!<br>
+제 이름은 노가성이고 데브옵스 엔지니어를 꿈꾸며 공부중에요!<br>
 현재 광주소프트웨어마이스터고등학교에 재학중이며 배움을 중요시하는 개발자/엔지니어로 데굴데굴 구르고 배우고 있습니다!<br>
 </p>
 
@@ -28,9 +28,8 @@
 </p>
 
 <p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> 
 </p><br>
 
@@ -48,7 +47,6 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black">
        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </p>
 
 
