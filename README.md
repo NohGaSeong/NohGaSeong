@@ -52,8 +52,8 @@
 
 <br>
 
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wke1wke1)](https://solved.ac/wke1wke1/)
 <div align=center>
-    
 ![NohGaSeong's github stats](https://github-readme-stats.vercel.app/api?username=NohGaSeong&show_icons=true)
 </div>
 
