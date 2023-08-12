@@ -55,12 +55,7 @@
 
 
 <br>
-<div align=center>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wke1wke1)](https://solved.ac/wke1wke1)
-
-
-</div>
 <div align=center>
     
 
